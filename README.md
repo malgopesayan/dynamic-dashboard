@@ -69,10 +69,10 @@ Users can draw polygons on a map, apply **rule-based color coding**, and explore
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/malgopesayan/workforcemgmt
+git clone https://github.com/malgopesayan/dynamic-dashboard
 
 # Navigate to the project folder
-cd dynamic-data-dashboard
+cd dynamic-dashboard
 
 # Install dependencies
 npm install
